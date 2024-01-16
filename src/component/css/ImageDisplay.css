@@ -1,0 +1,13 @@
+.modal {
+  display: "flex";
+  align-items: "center";
+  justify-content: "center";
+}
+
+.img {
+  height: 70vh;
+  position: relative;
+  top: 15%;
+  transform: translateY(-50px, -50%);
+  object-fit: contain;
+}
