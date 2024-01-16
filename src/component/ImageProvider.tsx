@@ -15,8 +15,8 @@ import {
 } from "@mui/material";
 import { useEffect, useState } from "react";
 import SearchIcon from "@mui/icons-material/Search";
-import PexelsImages from "./images/PexelsImages";
-import ImgurImages from "./images/ImgurImages";
+import PexelsImages from "./components/PexelsImages";
+import ImgurImages from "./components/ImgurImages";
 import ImageService from "./common/ImageService";
 import CustomLoader from "./common/CustomLoader";
 
